@@ -16,7 +16,8 @@ public class RunnerClass {
       String expectedTitle = "Welcome: Mercury Tours";
       String actualTitle = driver.getTitle();
       Assert.assertEquals(actualTitle, expectedTitle);
-      System.out.println("Running f function");
+      System.out.println("Running f function1234567");
+	  System.out.println("Running f function1234567");
       
   }
   @BeforeMethod
